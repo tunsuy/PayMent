@@ -1,0 +1,19 @@
+//
+//  PayMent-Prefix.pch
+//  PayMent
+//
+//  Created by tunsuy on 21/4/16.
+//  Copyright © 2016年 tunsuy. All rights reserved.
+//
+
+#ifndef PayMent_Prefix_pch
+#define PayMent_Prefix_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#import "MacroDefine.h"
+#import "UITableViewCell+TSCreateCell.h"
+#import <UIKit/UIKit.h>
+
+#endif /* PayMent_Prefix_pch */
